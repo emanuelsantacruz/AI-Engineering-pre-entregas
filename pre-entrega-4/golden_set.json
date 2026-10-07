@@ -1,0 +1,22 @@
+[
+  {
+    "pregunta": "¿Cómo se protegen los endpoints en FastAPI y qué dependencia se usa?",
+    "doc_id_esperado": "fastapi_auth"
+  },
+  {
+    "pregunta": "¿Qué broker y decorador utiliza Celery para encolar tareas en segundo plano?",
+    "doc_id_esperado": "celery_tasks"
+  },
+  {
+    "pregunta": "¿Qué método se utiliza para crear un motor asíncrono en SQLAlchemy 2.0?",
+    "doc_id_esperado": "sqlalchemy_async"
+  },
+  {
+    "pregunta": "¿Cómo se configura el tiempo de expiración (TTL) al guardar claves en Redis?",
+    "doc_id_esperado": "redis_cache"
+  },
+  {
+    "pregunta": "¿Cómo se asegura el orden de inicio entre servicios dependientes en Docker Compose?",
+    "doc_id_esperado": "docker_compose"
+  }
+]
